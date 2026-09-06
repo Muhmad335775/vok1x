@@ -1,0 +1,4 @@
+-keep class com.vok1x.app.MainActivity { *; }
+-keepattributes !SourceFile,!LineNumberTable
+-keep class androidx.compose.** { *; }
+-keep class kotlin.Metadata { *; }
